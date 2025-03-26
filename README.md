@@ -246,12 +246,12 @@ The project is provided under the MIT License.
 1. **No funds after airdrop**
      - Check the explorer link to ensure your transaction was successful.
      - Wait a moment or two, then run `getBalance` again in a small script.
-2. **Invalid keypair or base58 decode error
+2. **Invalid keypair or base58 decode error**
     - Ensure that you copied the entire private key array from `keygen.ts` output (including all brackets and commas).
     - For base58 conversions, confirm you have no extra whitespace or line breaks.
-3. **Transaction fails or times out***
+3. **Transaction fails or times out**
     - DevNet can be slow; retry or use another RPC endpoint (e.g., `https://api.devnet.solana.com` is the standard, but you can also try `https://solana-devnet.rpcpool.com` or others).
-4. **Accidentally committed a private key
+4. **Accidentally committed a private key**
     - Immediately remove the key if it's valuable.
     - Remove it from your repo history (via `git filter-branch`, `git filter-repo`, or BFG), or rotate to a new keypair.
 
@@ -264,6 +264,7 @@ The project is provided under the MIT License.
 - The Turbin3 team for the course materials
 
 For questions or guidance, please reach ot in the **Solana Chat channel** of the **Turbin3 Discord**.
+Happy coding!
 
 ---
 
