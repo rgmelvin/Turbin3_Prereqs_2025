@@ -263,7 +263,7 @@ The project is provided under the MIT License.
 - [coral-xyz](#github.com/coral-xyz/anchor) for the Anchor framework
 - The Turbin3 team for the course materials
 
-For questions or guidance, please reach ot in the **Solana Chat channel** of the **Turbin3 Discord**.
+For questions or guidance, please reach out in the **Solana Chat channel** of the **Turbin3 Discord**.
 Happy coding!
 
 ---
