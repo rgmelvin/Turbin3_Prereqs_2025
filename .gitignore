@@ -11,3 +11,27 @@
 
 #!.yarn/cache
 .pnp.*
+*wallet.json
+node_modules
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+
+dist/
+.build/
+.cache/
+.out/
+.next/
+
+coverage/
+
+.env
+.env.*
+
+.DS_Store
+
+.vscode/
+.idea/
